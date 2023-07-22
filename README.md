@@ -14,3 +14,4 @@ o download não é por aqui por que é muito grande e não cabe
 ![image](https://github.com/Valdemir-DSW/botton-box-firmware-arduino/assets/134114016/f8f11613-7bbb-4ae4-8ceb-d7d692ab2486)
 ![image](https://github.com/Valdemir-DSW/botton-box-firmware-arduino/assets/134114016/f46e5d2a-d900-42ca-b2a4-2134d2be385d)
 
+caso encontre algun problema porfavor informe nos problemas
