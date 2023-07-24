@@ -16,3 +16,4 @@ o download não é por aqui por que é muito grande e não cabe
 
 
 Caso encontre algum problema por favor informe nos problemas
+obs,os leds não estão funcionando por enquanto 
