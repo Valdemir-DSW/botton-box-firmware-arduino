@@ -13,6 +13,14 @@ o download não é por aqui por que é muito grande e não cabe
 
 ![image](https://github.com/Valdemir-DSW/botton-box-firmware-arduino/assets/134114016/f8f11613-7bbb-4ae4-8ceb-d7d692ab2486)
 ![image](https://github.com/Valdemir-DSW/botton-box-firmware-arduino/assets/134114016/f46e5d2a-d900-42ca-b2a4-2134d2be385d)
+você pode utilizar módulos joystick
+![image](https://github.com/Valdemir-DSW/botton-box-firmware-arduino/assets/134114016/fda48955-bf0d-41d9-be36-b61f925dccb3)
+![image](https://github.com/Valdemir-DSW/botton-box-firmware-arduino/assets/134114016/e5964d79-5cce-4f36-b6fd-71883fc4f0bf)
+chave de seta, ignição e Maneco de freio.
+![image](https://github.com/Valdemir-DSW/botton-box-firmware-arduino/assets/134114016/3087185a-98f3-4178-80f7-f6873c913c01)
+
+
+
 
 
 Caso encontre algum problema por favor informe nos problemas
